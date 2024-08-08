@@ -1,0 +1,59 @@
+.container {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding-right: 100px;
+  padding-left: 100px;
+}
+.select {
+  width: 50vw;
+  height: 50px;
+  font-size: 24px;
+  font-weight: 600;
+  color: blue;
+  border: 1px solid blue;
+  margin-bottom: 40px;
+  outline: none;
+
+}
+.form {
+  display: flex;
+  flex-direction: column;
+}
+.review-input {
+  width: 50vw;
+  height: 50px;
+  border: 1px solid blue;
+  margin-bottom: 40px;
+  outline: none;
+}
+.title {
+  font-size: 32px;
+  font-weight: 800;
+  color: blue;
+  text-decoration: underline;
+}
+.button {
+  width: 200px;
+  height: 50px;
+  background-color:aqua;
+  border: 2px solid blue;
+  color: blue;
+  font-weight: 800;
+  text-transform: uppercase;
+}
+.reviews-container {
+  width: 50vw;
+}
+.product {
+  font-size: 24px;
+  font-weight: 600;
+  color: rgb(4, 4, 77);
+  margin-bottom: 16px;
+}
+.review {
+  font-size: 18px;
+  font-weight: 400;
+  color: rgb(4, 4, 77);
+  margin-bottom: 12px;
+  font-style: italic;
+}
